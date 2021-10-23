@@ -1,1 +1,1 @@
-# exercise-android-native-currency-converter-mvvm
+Following this tutorial https://www.youtube.com/watch?v=ct5etYgB5pQ
